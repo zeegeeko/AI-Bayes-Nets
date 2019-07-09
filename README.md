@@ -1,2 +1,6 @@
-# AI-Bayes-Nets
-CS188 - Fall 2017 - Artificial Intelligence: Bayesian Network
+# CS188 - Artificial Intelligence: Project 4
+
+## Pacman Bayesian Networks
+
+1. Variable Elimination
+2. Value of Perfect Information
